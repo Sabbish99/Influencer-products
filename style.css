@@ -1,0 +1,11 @@
+body {
+    font-family: "Work Sans", sans-serif;
+
+}
+
+.all-section {
+    border: 2px solid red;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 20px;
+}
