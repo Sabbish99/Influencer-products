@@ -54,6 +54,70 @@ body {
 }
 
 
+/* section-3  */
+
+.section-3-1 {
+    border-radius: 8px;
+    padding: 30px;
+    margin: 50px;
+    background-color: #fff4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+/* section-4 */
+.section-4 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.section-4 h1 {
+    font-size: 44px;
+}
+
+.main-card {
+    margin: 50px 150px 50px 150px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 60px;
+}
+
+.card {
+    border-radius: 8px;
+    text-align: left;
+    padding: 20px;
+    box-shadow: 1px 1px 10px;
+
+}
+
+.card h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.card h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card-1 {
+    display: flex;
+    gap: 20px;
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -119,6 +183,91 @@ body {
     }
 
 
+
+
+    /* section-3  */
+
+    .section-3-1 {
+        border-radius: 8px;
+        padding: 30px;
+        margin: 16px;
+        background-color: #fff4f8;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+
+
+
+    /* section-4 */
+    .section-4 {
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .section-4 h1 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+
+    .main-card {
+        margin: 20px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+    }
+
+    .card {
+        border-radius: 8px;
+        text-align: left;
+        padding: 16px;
+        box-shadow: 1px 1px 7px;
+
+    }
+
+    .card h2 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .card h3 {
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .card img {
+        width: 100%;
+    }
+
+    .card-1 {
+        display: flex;
+        gap: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 
@@ -180,6 +329,83 @@ body {
         font-weight: 700;
 
     }
+
+
+    /* section-3  */
+
+    .section-3-1 {
+        border-radius: 8px;
+        padding: 30px;
+        margin: 16px;
+        background-color: #fff4f8;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+
+
+
+    /* section-4 */
+    .section-4 {
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .section-4 h1 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .main-card {
+        margin: 20px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+    }
+
+    .card {
+        border-radius: 8px;
+        text-align: left;
+        padding: 16px;
+        box-shadow: 1px 1px 7px;
+
+    }
+
+    .card h2 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    .card h3 {
+        font-size: 22px;
+        font-weight: 400;
+    }
+
+    .card img {
+        width: 100%;
+    }
+
+    .card-1 {
+        display: flex;
+        gap: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 }
