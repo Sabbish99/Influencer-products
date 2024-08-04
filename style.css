@@ -70,6 +70,7 @@ body {
 /* section-4 */
 .section-4 {
     margin-top: 100px;
+    margin-bottom: 100px;
     text-align: center;
 }
 
@@ -110,6 +111,55 @@ body {
     display: flex;
     gap: 20px;
 }
+
+.icon {
+    display: flex;
+    margin-right: 150px;
+    justify-content: right;
+    color: #E02C6D;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+
+/* section-5 */
+.section-5 {
+    border: 2px solid red;
+    margin: 150px;
+}
+
+.section-5-1 {
+    display: flex;
+    gap: 100px;
+}
+
+.section-5-1-1 {}
+
+.section-5-1-2 {}
+
+.section-5-1-2 h1 {
+    font-size: 40px;
+}
+
+.section-5-1-2 p {
+    font-size: 18px;
+}
+
+.join-now {
+    border: none;
+    background-color: #E02C6D;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 16px 28px;
+    border-radius: 8px;
+}
+
+/* section-6 */
+
+
 
 
 
@@ -246,6 +296,58 @@ body {
         display: flex;
         gap: 20px;
     }
+
+    .icon {
+        margin: 0px;
+        display: flex;
+        justify-content: center;
+        color: #E02C6D;
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 100px;
+    }
+
+
+
+    /* section-5 */
+    .section-5 {
+        border: 2px solid red;
+        margin: 16px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+
+    .section-5-1 {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 50px;
+    }
+
+    .section-5-1-1 img {
+        width: 100%;
+    }
+
+    .section-5-1-2 {}
+
+    .section-5-1-2 h1 {
+        font-size: 28px;
+    }
+
+    .section-5-1-2 p {
+        font-size: 14px;
+        text-align: justify;
+    }
+
+    .join-now {
+        border: none;
+        background-color: #E02C6D;
+        color: white;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 12px 24px;
+        border-radius: 6px;
+    }
+
 
 
 
@@ -391,6 +493,58 @@ body {
     .card-1 {
         display: flex;
         gap: 20px;
+    }
+
+    .icon {
+        margin: 0px;
+        display: flex;
+        justify-content: center;
+        color: #E02C6D;
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 100px;
+    }
+
+
+
+
+    /* section-5 */
+    .section-5 {
+        border: 2px solid red;
+        margin: 16px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+
+    .section-5-1 {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 50px;
+    }
+
+    .section-5-1-1 img {
+        width: 100%;
+    }
+
+    .section-5-1-2 {}
+
+    .section-5-1-2 h1 {
+        font-size: 30px;
+    }
+
+    .section-5-1-2 p {
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    .join-now {
+        border: none;
+        background-color: #E02C6D;
+        color: white;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 13px 26px;
+        border-radius: 6px;
     }
 
 
